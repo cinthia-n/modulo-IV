@@ -1,4 +1,4 @@
-package org.umssdiplo.automationv01.core.managepage.Login;
+/*package org.umssdiplo.automationv01.core.managepage.Login;
 
         import org.openqa.selenium.WebElement;
         import org.openqa.selenium.support.FindBy;
@@ -19,7 +19,7 @@ public class Isocode extends BasePage {
     /*
      atraves del css o del name o del id se puede setear aca
     */
-    @FindBy(id = "")
+    /*@FindBy(id = "")
     private WebElement registrarAccidenteTab;
 
     public void setCredentials() {
@@ -36,4 +36,4 @@ public class Isocode extends BasePage {
 //        CommonEvents.clickButton(registrarAccidenteTab);
 //        return RegistrarAccidente();
 //    }
-}
+}*/
